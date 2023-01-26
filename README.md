@@ -17,7 +17,7 @@ by using the format of n.linalg.inv() , we can find the inverse of matrix
 ### Step1 : import numpy as np
 ### Step 2: using array function change the equation into a matrix
 ### Step 3: by using the format of n.linalg.inv() , we can find the inverse of matrix
->>>>>>> 118c1f73be40a3bec15746777c824189bc4ca380
+
 ## Program:
 ```
 #Program to find the inverse of a matrix.
@@ -31,9 +31,7 @@ print(b)
 ## Output:
 <<<<<<< HEAD
 ![output](./invoutput.png)
-=======
-![output](invoxutput.png)
->>>>>>> 118c1f73be40a3bec15746777c824189bc4ca380
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
